@@ -1,5 +1,5 @@
 {
-    "name": "netson/l4shell",
+    "name": "krunal200/l4shell",
     "type": "library",
     "description": "Add shell command wrapper to Laravel 4",
     "homepage": "https://github.com/netson/l4shell",
